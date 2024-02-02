@@ -1,0 +1,49 @@
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.csproj.AssemblyReference.cache
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm_mit_Datenbank_verbinden.Form1.resources
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm_mit_Datenbank_verbinden.Properties.Resources.resources
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.csproj.GenerateResource.cache
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.csproj.CoreCompileInputs.cache
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.csproj.SuggestedBindingRedirects.cache
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.exe.config
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Programm mit Datenbank verbinden.exe.config
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Programm mit Datenbank verbinden.exe
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Programm mit Datenbank verbinden.pdb
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Buffers.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Memory.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Text.Json.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.ValueTuple.dll
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Buffers.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Memory.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Text.Json.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\bin\Debug\System.ValueTuple.xml
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.csproj.CopyComplete
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.exe
+C:\Users\nassnode\source\repos\Programm mit Datenbank verbinden\Programm mit Datenbank verbinden\obj\Debug\Programm mit Datenbank verbinden.pdb
